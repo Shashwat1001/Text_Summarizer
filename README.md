@@ -8,4 +8,4 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/Shashwat1001/End-to-end-Text-Summarization
